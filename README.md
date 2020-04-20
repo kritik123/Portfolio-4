@@ -8,6 +8,6 @@
   Made with ❤️ using <img width="5%" height="auto" src="angular.png" /> <img width="4%" height="auto" src="firebase.png" /> <img width="4%" height="auto" src="vsc.png" /> 
  </p>
 <hr>
-
+- The third iteration of Portfolio webpage is re-developed using MeteorJS.</p>
 </body>
 </html>
